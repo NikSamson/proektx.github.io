@@ -803,9 +803,11 @@
 
 
 .aside {
+      left: 10000px;
+    position: sticky;
   box-sizing: border-box;
   background-color: #2d2d2d;
-  padding: 127px 52px 127px 77px;
+  padding: 127px 52px 127px 81px;
   min-width: 580px;
   min-height: 485px;
   color: #FFFFFF;
