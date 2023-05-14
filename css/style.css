@@ -1139,6 +1139,11 @@
     height: 215px;
   }
 
+  .services__heading {
+  font-size: 20pх;
+  }
+  
+  
   .introduction__header {
     margin-top: 17px;
     font-size: 40px;
@@ -1180,7 +1185,7 @@
   }
 
   .invers__heading {
-    font-size: 30p;
+    font-size: 30pх;
   }
 }
 
