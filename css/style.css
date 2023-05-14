@@ -803,8 +803,8 @@
 
 
 .aside {
-      left: 10000px;
-    position: sticky;
+  position: sticky;
+  left: 1000px;
   box-sizing: border-box;
   background-color: #2d2d2d;
   padding: 127px 52px 127px 81px;
