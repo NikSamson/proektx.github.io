@@ -890,15 +890,8 @@
   .aside {
     width: 100%;
     max-width: 100%;
-  }
-
-  .divide {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    padding-top: 12px;
-    flex-direction: column;
-    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 22px;
   }
 }
 
